@@ -1,8 +1,14 @@
-# must to-do for  one time each project to start git
 // echo "# my-first-github" >> README.md
-git init    // to activate the git
-git add .
+
+# 1. must to-do for  one time each project to start git
+git init        // to activate the git
+
+# 2. evry time to add something
+git add .       // . --> full files or you can seperate by nameing
+
+# 3. every time you commit
 git commit -m "first commit"
+
 git branch -M main
 git remote add origin https://github.com/mi-araf/my-first-github.git
 git push -u origin main
